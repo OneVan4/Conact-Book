@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conact Book", "Conact Book\Conact Book.csproj", "{DFAC6F2B-47CF-4576-A61E-105DB7CD2F6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFAC6F2B-47CF-4576-A61E-105DB7CD2F6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFAC6F2B-47CF-4576-A61E-105DB7CD2F6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFAC6F2B-47CF-4576-A61E-105DB7CD2F6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFAC6F2B-47CF-4576-A61E-105DB7CD2F6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4F81806-4E0F-4678-9602-D7E540F449DA}
+	EndGlobalSection
+EndGlobal
